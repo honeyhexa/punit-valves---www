@@ -73,6 +73,6 @@ const SOCIALS = [
 
 const RESOURCES = [
   { label: "RESOUCES" },
-  { label: "Blog", href: "/" },
+  { label: "Blog", href: "/blog" },
   { label: "Brochure", href: "/" },
 ];
